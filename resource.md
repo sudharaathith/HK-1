@@ -8,3 +8,6 @@ hello
 
 Vpn project
 https://youtu.be/JVaUjKXJseA
+
+
+https://www.abstractapi.com/guides/how-to-detect-if-an-ip-address-is-using-a-vpn
